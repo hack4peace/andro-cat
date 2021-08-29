@@ -1,13 +1,13 @@
-echo -e ",_     _ "
-echo -e " |\\_,-~/ "
-echo -e " / _  _ |    ,--. "
-echo -e "(  @  @ )   / ,-.) "
-echo -e " \  _T_/-._( ( "
-echo -e " /         `. \ "
-echo -e "|         _  \ | "
-echo -e " \ \ ,  /      | "
-echo -e "  || |-_\__   / "
-echo -e " ((_/`(____,-/ "
+echo -e ",_     _"
+echo -e " |\\_,-~/"
+echo -e " / _  _ |    ,--."
+echo -e "(  @  @ )   / ,-.)"
+echo -e " \  _T_/-._( ("
+echo -e " /         `. \"
+echo -e "|         _  \ |"
+echo -e " \ \ ,  /      |"
+echo -e "  || |-_\__   /"
+echo -e " ((_/`(____,-/"
 sleep 5
 adb pull /sdcard/Download
 adb pull /sdcard/DCMI
