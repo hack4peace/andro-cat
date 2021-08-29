@@ -1,7 +1,7 @@
 echo -e ",_     _ "
 echo -e " |\\_,-~/ "
 echo -e " / _  _ |    ,--. "
-echo -e "(  @  @ )   / ,- "
+echo -e "(  @  @ )   / ,-.) "
 echo -e " \  _T_/-._( ( "
 echo -e " /         `. \ "
 echo -e "|         _  \ | "
