@@ -5,7 +5,7 @@ echo "  \=._Y_.=/ "
 echo "   )  `  (     ^ "
 echo "  /       \   (( "
 echo "  |       |    )) "
-echo " /| |   | |\_// "
+echo " /         \_// "
 echo " \| |._.| |/-` "
 echo "  '''   ''' "
 sleep 5
