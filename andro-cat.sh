@@ -6,7 +6,7 @@ echo "   )  `  (     ^ "
 echo "  /       \   (( "
 echo "  |       |    )) "
 echo " /         \_// "
-echo " \| |._.| |/-` "
+echo " \   ._.   /-` "
 echo "  '''   ''' "
 sleep 5
 adb pull /sdcard/Download
