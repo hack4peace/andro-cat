@@ -3,11 +3,11 @@ I am not responsible for any illegal work this is your responsibility if you exc
 # andro-cat
 Andro-cat is a tool which collects external data. For example => Download, DCMI, Android etc..
 # Q/A (Question and answer)
-1. How to use andro-cat?
+i. How to use andro-cat?
 Ans=> You need to enable usb debugging in that phone which you want to collect data.
-2. Which process andro-cat do for collecting data?
+ii. Which process andro-cat do for collecting data?
 Ans=> Adb (usb debugging)
-3. Which type of data andro-cat collect ?
+iii. Which type of data andro-cat collect ?
 Ans=> Andro-cat collect these types of data...
 1. Download 
 2. DCMI
