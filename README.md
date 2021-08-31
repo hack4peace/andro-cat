@@ -14,4 +14,11 @@ Ans=> Adb (usb debugging)
 4. That phone which you want to collect data.
 ******THAT'S ALL*******
 # notes
-You need to change your folders or file name then it will work..
+You need to change your folders or file name then it will work. For example:-- 
+1. Your Phone     
+2.    ||                   
+3.    \/                    
+4 (before) Download      
+5.            ||
+6.            \/
+7.         Download 2
