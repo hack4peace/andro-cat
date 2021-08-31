@@ -1,3 +1,13 @@
+###Colour###
+rset="\e[0m"
+grn="\e[92m"
+#############
+echo -e "$grn What is your age?$rset"
+read age
+echo -e "$grn What is your name?$rset"
+read name
+echo -e "$grn I AM NOT RESPONSIBLE FOR ANY ILLEGAL WORK THIS IS YOUR RESPONSIBILITY IF YOU EXCEPT YOUR RESPONSIBILITY THEN CLICK ENTER.$rset"
+read agreement 
 echo "  ,_     _,"
 echo "  |\\___//|"
 echo "  |=6   6=|"
