@@ -12,7 +12,10 @@ Ans=>
 1. Download 
 2. DCMI
 3. Android 
-4.
+4. Movies 
+5. Music 
+6. Notifications 
+7. Photos
 # requirements 
 1. Usb cable
 2. Otg (if you are collecting data by your phone)
