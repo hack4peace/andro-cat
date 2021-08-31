@@ -8,14 +8,16 @@ Ans=> You need to enable usb debugging in that phone which you want to collect d
 2. Which process andro-cat do for collecting data?
 Ans=> Adb (usb debugging)
 3. Which type of data andro-cat collect ?
-Ans=> 
+Ans=> Andro-cat collect these types of data...
 1. Download 
 2. DCMI
 3. Android 
 4. Movies 
 5. Music 
 6. Notifications 
-7. Photos
+7. Pictures
+8. Ringtones 
+9. Pordcast
 # requirements 
 1. Usb cable
 2. Otg (if you are collecting data by your phone)
