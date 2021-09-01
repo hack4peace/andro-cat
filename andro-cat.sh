@@ -10,16 +10,17 @@ read name
 echo -e "$grn I AM NOT RESPONSIBLE FOR ANY ILLEGAL WORK THIS IS YOUR RESPONSIBILITY IF YOU EXCEPT YOUR RESPONSIBILITY THEN CLICK ENTER.$rset"
 read agreement 
 clear
-echo "  ,_     _,"
-echo "  |\\___//|"
-echo "  |=6   6=|"
-echo "  \=._Y_.=/"
-echo "   )  `  (     ^"
-echo "  /       \   (("
-echo "  | |    | |   ))"
-echo " /| |    | |\_//"
-echo " \| | ._.| |/-`"
-echo "  '''   '''"
+echo "           /\___/\
+                /       \
+               l  u   u  l
+             --l----*----l--
+                 \   w   /     - Meow!
+     ======
+   /       \ __
+   l        l\ \
+   l        l/ /   -Audrey Ming Hwang-
+   l  l l   l /
+   \ ml lm /_/          
 sleep 5
 adb pull /sdcard/Download
 adb pull /sdcard/DCMI
