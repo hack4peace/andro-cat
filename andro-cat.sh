@@ -2,12 +2,14 @@
 rset="\e[0m"
 grn="\e[92m"
 #############
+clear
 echo -e "$grn What is your age?$rset"
 read age
 echo -e "$grn What is your name?$rset"
 read name
 echo -e "$grn I AM NOT RESPONSIBLE FOR ANY ILLEGAL WORK THIS IS YOUR RESPONSIBILITY IF YOU EXCEPT YOUR RESPONSIBILITY THEN CLICK ENTER.$rset"
 read agreement 
+clear
 echo "  ,_     _,"
 echo "  |\\___//|"
 echo "  |=6   6=|"
